@@ -1,5 +1,7 @@
-![Github actions demo](https://gtihub.com/izhaan-raza/learn-cicd-starter/actions/workflow/ci.yml/badge.svg)
 # learn-cicd-starter (Notely)
+
+
+![Github actions demo](https://gtihub.com/izhaan-raza/learn-cicd-starter/actions/workflow/ci.yml/badge.svg)
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
